@@ -9,8 +9,13 @@
 .bg-color-three-reasons {
     background-color: #fff;
 }
+
 .bg-color-personal-info {
     background-color: #f4f4f4;
+}
+
+.bg-color-skills {
+    background-color: #fff;
 }
 
 .bg-color-work-history {
@@ -18,6 +23,14 @@
 }
 
 .bg-color-contact {
+    background-color: #fff;
+}
+
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
     background-color: #fff;
 }
 
@@ -35,6 +48,22 @@
 
 .ui-menu-color-download {
     background-color: #525252;
+}
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: #525252;
+    color: #555555;
 }
 
 /* ----------------------------------------Special paddings/margins/text */
